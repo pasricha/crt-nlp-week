@@ -1,0 +1,8 @@
+emoji
+nltk
+pandas
+textblob
+transformers
+tqdm
+vaderSentiment
+
