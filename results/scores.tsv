@@ -1,0 +1,5 @@
+system	AvgR_3	AvgF1_2	Acc
+vader	0.570	0.528	0.530
+textblob	0.490	0.414	0.487
+n-gram naive bayes	0.562	0.554	0.537
+bertweet	0.724	0.720	0.708
